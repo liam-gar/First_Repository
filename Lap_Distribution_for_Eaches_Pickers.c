@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 
-//Program to distribute laps between pickers for a given shift to minimize traffic
+//Program to distribute laps between eaches pickers for a given shift to minimize traffic in the warehouse
 //Author : Liam Garcia
 
 /*
